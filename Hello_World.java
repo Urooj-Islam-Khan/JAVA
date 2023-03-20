@@ -14,7 +14,7 @@ public class Hello_World {
 // is used to comment
 
 /*public static void main(String[] args) :
- definesa static main method which takes an array of string as an argument.
+ defines a static main method which takes an array of string as an argument.
 */
 
 
